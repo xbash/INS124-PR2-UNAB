@@ -1,8 +1,0 @@
-http://puntocomnoesunlenguaje.blogspot.cl/p/ejercicios.html
-http://puntocomnoesunlenguaje.blogspot.cl/2012/06/java-ejercicios-basicos-resueltos-1.html
-http://www.miprimercodigo.com/2012/04/ejercicios-resueltos-de-estructuras-de-control-en-java-parte-2/
-
-trabajo con jdbc
-http://lineadecodigo.com/java/insertar-datos-con-jdbc/
-http://www.w3api.com/wiki/Java:Connection
-http://lineadecodigo.com/java/actualizar-datos-con-jdbc/

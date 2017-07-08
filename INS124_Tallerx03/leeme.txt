@@ -1,3 +1,0 @@
-http://codigosdeprogramacion.com/2016/12/04/crud-en-java-y-mysql/
-http://www.ecodeup.com/crud-java-manual-completo/
-http://www.ecodeup.com/patrones-de-diseno-en-java-mvc-dao-y-dto/

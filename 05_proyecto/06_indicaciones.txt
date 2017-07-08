@@ -1,0 +1,16 @@
+
+Proyecto
+1 entender el problema de los requerimientos
+2 identificar tablas (nombres
+3 crear tablas y relaciones
+	1 crear tablas que estan relacion 1 a 1
+	2 crear tablas que estan en relacion 1 a n
+4 crear las consultas (SELECT)
+5 crear vistas con las consultas (create view as select)
+6 poblar la DB
+	1 ingresar datos en las tablas que estan en relacion a 1
+	2 ingresar datos en las tablas que estan en relacion a n
+	3 verificar select y vistas
+7 crear el menu principal con la paleta
+8 desarrollar la aplicacion
+	

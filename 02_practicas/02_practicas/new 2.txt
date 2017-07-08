@@ -1,0 +1,6 @@
+
+crear una matriz cudrada (validar)
+sumar los elementos de la diagonal principal y restar la suma de la digonal secundaria
+genarar un arrreglo en que cada elemento corresponda a la suma de cada fila
+generar un arreglo en que cada elemento corresponda a la suma de cada columna
+agregar a las opciones del proyecto que ya tenemos

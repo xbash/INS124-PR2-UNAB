@@ -1,2 +1,2 @@
-# INS124_LABx2017
-INS124 Programacion II - Fuentes utilizadas en laboratorios | 1er semestre 2017 [UNAB]
+# INS124 - Programacion II
+INS124 Programacion II - Fuentes usadas en cátedra y laboratorio [UNAB]
